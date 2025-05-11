@@ -1,1 +1,2 @@
 # Safe-Artificial-Machine-Intelligence-Through-Localization
+This is an independent research project I began during Easter 2025, driven by curiosity and a personal interest in artificial machine intelligence, conducted in my free time.
